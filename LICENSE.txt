@@ -1,0 +1,13 @@
+// * MIT License
+// *
+// * Copyright (c) 2023-03-09 Smart_Cane [Kim JaeHyeon, Kim SuJin, Seo JinHyeok]
+// *
+// * Hereby, the Smart_Cane grants unlimited permission to anyone who obtains a copy of 
+// * this software, to use, copy, modify, merge, publish, distribute, sublicense, and/or 
+// * sell copies of the software free of charge.
+// * 
+// * The software is provided "as is," without any warranties, whether express or implied.
+// * The author or copyright holder disclaims all liability for any damages, claims, or other
+// * liabilities arising out of or in connection with the use of the software, including but 
+// * not limited to any warranties of merchantability, fitness for a particular purpose,
+// * and non-infringement.
